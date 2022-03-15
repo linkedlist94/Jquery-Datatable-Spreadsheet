@@ -27,6 +27,7 @@ Unchanged settings may be seen [here](https://github.com/ejbeaty/CellEdit/blob/m
 ##### Settings { JSON Object  }
 Property | Type | Default | Example | Details  
 :------ | :------ | :------ | :-----| :------
+**keys** _(mandatory for spreadsheet)_| bool | false | ```{"keys":"true"}``` | All options from Datatable.KeyTable available.
 **confirmationButton** _(mandatory for spreadsheet)_| bool &#124; object | false | ```{"confirmCss":"button"}``` | To use  **Spreadsheet Functionality**, add another property **listenToKeys** and set it to true.
 
 ### Updates to CellEdit
