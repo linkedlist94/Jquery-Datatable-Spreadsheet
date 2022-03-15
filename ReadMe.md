@@ -5,7 +5,7 @@ This is an extension to [JQuery Datatable KeyTable](https://datatables.net/exten
 
 When a cell is clicked, an input field will appear - if **listenToKeys** is true. When focus is lost on the input and the underlying DataTable object will be updated and the table will be redrawn. The new value is passed to a callback function, along with it's row, allowing for easy server-side data updates. 
 
-![Example image](example.png "Example")
+![Example image](Sample-Spreadsheet.png "Example")
 
 ## Usage
 ### MakeCellsEditable(settings);
