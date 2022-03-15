@@ -1,4 +1,4 @@
-﻿# CellEdit
+﻿# Spreadsheet
 ##### A plugin for [DataTables.net](https://datatables.net) 
 ## Overview
 This is an extension to [JQuery Datatable KeyTable](https://datatables.net/extensions/keytable/) using an updated version of [CellEdit](https://github.com/ejbeaty/CellEdit) that allows the user to - not only - move around the table like an Excel spreadsheet, but to do real-time edits within it.
